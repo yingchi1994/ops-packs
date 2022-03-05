@@ -1,0 +1,11 @@
+---
+ref: cldops
+name : cldops
+description : cldops actionflows
+keywords:
+  - infra
+  - cldops
+  - cld
+version: 1.0.0
+author : cldops
+email : cldsre@corp.netease.com
